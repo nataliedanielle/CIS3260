@@ -1,7 +1,7 @@
 
 public class Dog {
 	String name = "Blue";
-	String color = "Brown";
+	String color = "Red";
 	String x = "Hello World ; something";
 	int age = 6;
 	double height = 2.6;
